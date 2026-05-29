@@ -9,10 +9,7 @@
 * where each line contributes to forming the letters 0, 0, P, and S in a stylized format.
 * This extends a basic user story by adding visual presentation to a simple message output.
 * </p>
-*
-* @author Mohammed Rezin
-* @version 2
-*/
+
 
 public class OOPSBannerApp
 {
